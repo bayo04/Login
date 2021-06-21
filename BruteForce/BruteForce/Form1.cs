@@ -20,7 +20,6 @@ namespace BruteForce
         public Form1()
         {
             InitializeComponent();
-            txtPath.Text = @"C:\Users\Antonio\source\repos\Matija\lozinke.txt";
         }
 
         private void btnHash_Click(object sender, EventArgs e)
@@ -28,6 +27,7 @@ namespace BruteForce
             BruteHash();
         }
 
+        // funkcija koja iterira kroz datoteku i poziva api za svaku liniju (ne koristi ni sol i papar)
         private async Task BruteHash()
         {
             lblLoading.Text = "Učitavanje";
@@ -75,6 +75,7 @@ namespace BruteForce
             BruteSalt();
         }
 
+        // funkcija koja iterira kroz datoteku i poziva api za svaku liniju (koristi sol)
         private async Task BruteSalt()
         {
             lblLoading.Text = "Učitavanje";
@@ -118,6 +119,7 @@ namespace BruteForce
             }
         }
 
+        // funkcija koja poziva api da sazna sol za određenog korisnika
         private async Task<string> GetSalt()
         {
             HttpClient client = new HttpClient();
@@ -130,6 +132,7 @@ namespace BruteForce
             BrutePepper();
         }
 
+        // funkcija koja iterira kroz datoteku i poziva api za svaku liniju (koristi papar)
         private async Task BrutePepper()
         {
             lblLoading.Text = "Učitavanje";
