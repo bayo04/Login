@@ -1,0 +1,15 @@
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.exe
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.deps.json
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.runtimeconfig.json
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.runtimeconfig.dev.json
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.dll
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.pdb
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.Form1.resources
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.csproj.GenerateResource.cache
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.AssemblyInfoInputs.cache
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.AssemblyInfo.cs
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.dll
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.pdb
+C:\Users\Antonio\source\repos\Matija\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.genruntimeconfig.cache
